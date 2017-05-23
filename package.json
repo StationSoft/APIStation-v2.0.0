@@ -1,0 +1,18 @@
+{
+  "name": "api_station",
+  "version": "1.0.0",
+  "description": "API Station",
+  "main": "APIStation.js",
+  "scripts": {
+    "start": "node APIStation.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Premkumar Shanmugam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.4"
+  },
+  "private": true
+}
