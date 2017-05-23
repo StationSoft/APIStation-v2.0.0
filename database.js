@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 
-db_name = DataStation
+db_name = 'DataStation'
 
 //provide a sensible default for local development
 mongodb_connection_string = 'mongodb://127.0.0.1:27017/' + db_name;
