@@ -4,8 +4,7 @@
   "description": "API Station",
   "main": "APIStation.js",
   "scripts": {
-    "start": "node APIStation.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node APIStation.js"
   },
   "author": "Premkumar Shanmugam",
   "license": "ISC",
